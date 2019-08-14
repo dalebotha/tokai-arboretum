@@ -1,0 +1,23 @@
+{
+  "name": "tokai-arboretum",
+  "version": "1.0.0",
+  "description": "A SPA for looking up the names of the different tree species in the Tokai Arboretum",
+  "main": "tree-parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalebotha/tokai-arboretum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalebotha/tokai-arboretum/issues"
+  },
+  "homepage": "https://github.com/dalebotha/tokai-arboretum#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
